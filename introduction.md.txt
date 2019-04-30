@@ -2,6 +2,6 @@ Lee Hyo Jeong
 
 * Birth : 0206
 * Interested : AI
-* MySpecialith : None
+* MySpeciality : None
 * MyCareer : None
 * Prject_joined : Gradios
